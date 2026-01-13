@@ -1,5 +1,5 @@
 
-    <script defer="defer">
+
         (() => {
             "use strict";
             var e = e => {
@@ -9784,4 +9784,3 @@
                 console.log("Hello, Webpack!")
         }
         )()
-    </script>
