@@ -1,6 +1,6 @@
 
     (() => {
-        "use strict1";
+        "use strict";
         var e = e => {
             "undefined" != typeof Symbol && Symbol.toStringTag && Object.defineProperty(e, Symbol.toStringTag, {
                 value: "Module"
