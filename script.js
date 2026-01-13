@@ -1,6 +1,6 @@
-<script defer="defer">
+
     (() => {
-        "use strict";
+        "use strict1";
         var e = e => {
             "undefined" != typeof Symbol && Symbol.toStringTag && Object.defineProperty(e, Symbol.toStringTag, {
                 value: "Module"
@@ -9784,4 +9784,3 @@
             console.log("Hello, Webpack!")
     }
     )()
-</script>
